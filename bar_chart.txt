@@ -1,0 +1,6 @@
+90,India
+10,China
+77,USA
+54,England
+13,UAE
+110,Russia
